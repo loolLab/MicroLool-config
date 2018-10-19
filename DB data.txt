@@ -1,0 +1,9 @@
+"code" : "P001"
+"name" : "USB Mouse"
+"description" : "logitec USB 3.0 Mouse"
+"price" : 750.0
+
+"productCode" : "P001",
+"availableQuantity" : 300
+
+mongodb://localhost:27017/micro-serviceDB
